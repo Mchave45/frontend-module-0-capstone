@@ -19,11 +19,10 @@ console.log("My zoo has " + number + " " + creatures + "!")
 
  // Write code that combines the variables below into a string that
  // reads "The quick red fox jumped over the lazy brown dog":
-var speedy = "quick red fox";
-var slowPoke = "lazy brown dog";
+ var speedy = "quick red fox";
+ var slowPoke = "lazy brown dog";
 
-console.log(/*YOUR CODE HERE*/);
-
+ console.log("The " + speedy + " " + "jumped over the " + slowPoke);
 // Write code that combines the variables below into a string that
 // reads "In a predictable result, the tortoise beat the hare!"
 // Note that we are omitting the var keyword below, because we are re-assigning the variables
@@ -31,4 +30,4 @@ console.log(/*YOUR CODE HERE*/);
 slowPoke = "tortoise";
 speedy = "hare";
 
- // YOUR CODE HERE
+console.log("In a predictable result, " + "the " + slowPoke + " beat the " + speedy);
