@@ -41,15 +41,30 @@ if (bearChoice === 1) {
 Reflection Questions
 1. In English, using technical vocabulary, describe what is happening between lines 17 and 21.
 
+If you choose door number 1, you notice a bear wearing a hat. If you choose door number 2, you see a bear wearing a scarf.
+
 2. What variable has a new value assigned to it after the first if statement executes?
+
+bearClothing
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
 
+"scarf"
+
 4. In English, using technical vocabulary, describe what is happening between lines lines 31 and 38.
+
+If the variable is strictly equal to 1, then you offer the bear your clothing. If the variable is strictly equal to 2, then you tell the bear its clothing is too small.
+If the variable is strictly equal to 3 you stay with the bear and become its best friend.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
 
+You stay and become its best friend.
+
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
 
+You see the bear putting on a hat thats too small, and you tell it the hat is too small and the bear starts to cry.
+
 7. What is your favorite ending?
+
+I like choosing door number 1 and choice number 1.
 */
